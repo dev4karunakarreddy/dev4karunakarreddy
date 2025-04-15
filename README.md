@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Karunakar Reddy</h1>
-<h3 align="center"><i>A passionate Full Stack Developer from Bengaluru, India</i></h3>
+<h1 align="center">Hi 👋, I'm Karna</h1>
+<h3 align="center"><i>A passionate Full Stack Engineer</i></h3>
 
 <p align="center">
   <a href="https://imvrish.github.io/Profile/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:karnaavenger@gmail.com">
+  <a href="mailto:dev4karunakarreddy@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/imvrish/" target="_blank">
@@ -18,7 +18,7 @@
 ### 🧑‍💻 <i>About Me</i>
 
 - 👯 I’m looking to collaborate on _**Open Source and Backend-heavy projects**_
-- 📫 Reach me at _**karnaavenger@gmail.com**_
+- 📫 Reach me at _**dev4karunakarreddy@gmail.com**_
 - ⚡ Fun fact: _**I love playing chess and watching movies**_
 
 ---
@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-%23854492.svg?&style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
@@ -84,7 +86,7 @@
   <a href="https://www.linkedin.com/in/imvrish/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:karnaavenger@gmail.com">
+  <a href="mailto:dev4karunakarreddy@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
