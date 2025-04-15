@@ -51,13 +51,18 @@
 ### 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev4karunakarreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev4karunakarreddy&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev4karunakarreddy&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dev4karunakarreddy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev4karunakarreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev4karunakarreddy&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev4karunakarreddy&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=dev4karunakarreddy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
+
+### 📈 Contributions Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev4karunakarreddy&theme=github-compact&area=true&hide_border=true" alt="Contributions Graph" />
