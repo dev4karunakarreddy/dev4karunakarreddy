@@ -15,15 +15,15 @@
 
 ---
 
-### 🧑‍💻 <i>About Me</i>
+### 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on _**Open Source and Backend-heavy projects**_
-- 📫 Reach me at _**dev4karunakarreddy@gmail.com**_
-- ⚡ Fun fact: _**I love playing chess and watching movies**_
+- 👯 I’m looking to collaborate on _Open Source_ & _Backend-heavy_ projects  
+- 📫 Reach me at **dev4karunakarreddy@gmail.com**  
+- ⚡ Fun fact: I love playing chess & watching movies  
 
 ---
 
-### 🚀 <i>Languages and Tools</i>
+### 🚀 Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -48,39 +48,24 @@
 
 ---
 
-### 📊 <i>GitHub Stats</i>
+### 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev4karunakarreddy&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev4karunakarreddy&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev4karunakarreddy&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev4karunakarreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev4karunakarreddy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev4karunakarreddy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev4karunakarreddy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🏆 <i>GitHub Trophies</i>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev4karunakarreddy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev4karunakarreddy&theme=github-compact&area=true&hide_border=true" alt="Contributions Graph" />
 </p>
 
 ---
 
-### 📈 <i>Contributions Graph</i>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev4karunakarreddy&theme=github-compact&area=true&hide_border=true" />
-</p>
-
----
-
-### 💬 <i>Let’s Connect</i>
+### 💬 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imvrish/">
