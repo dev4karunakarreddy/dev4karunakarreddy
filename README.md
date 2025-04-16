@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on _Open Source_ & _Backend-heavy_ projects  
+- 👯 I'm looking to collaborate on _Open Source_ & _Backend-heavy_ projects  
 - 📫 Reach me at **dev4karunakarreddy@gmail.com**  
 - ⚡ Fun fact: I love playing chess & watching movies  
 
@@ -48,19 +48,7 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev4karunakarreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev4karunakarreddy&theme=radical" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev4karunakarreddy&layout=compact&theme=radical" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=dev4karunakarreddy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev4karunakarreddy&theme=github-compact&area=true&hide_border=true" alt="Contributions Graph" />
-</p>
-
----
-
-### 💬 Let’s Connect
+### 💬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imvrish/">
