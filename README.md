@@ -16,7 +16,6 @@ I'm Karunakar Reddy, also known as **Karna**, a full stack developer who builds 
 
 - 💼 Full Stack Developer at **KMSS Pvt.Ltd**, since March 2024.
 - 🛠️ Working with **React, Next.js, FastAPI, Spring Boot, and PostgreSQL**.
-- 🤖 Project experience with AI-powered recruitment, resume screening, interview agents, and retrieval-augmented generation (RAG).
 - 🎓 B.Tech in Computer Science from **K.S.R.M College Of Engineering**.
 - 🤝 **Available for new projects.**
 
